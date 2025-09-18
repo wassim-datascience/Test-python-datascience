@@ -14,7 +14,7 @@ Il inclut à la fois un **notebook Jupyter (.ipynb)** et une **version script (.
 ## 🚀 Ouvrir le notebook dans Google Colab
 Cliquez sur le bouton ci-dessous pour ouvrir le notebook directement dans Colab :  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wassim-datascience/test-python-datascience/blob/main/Test-python-datascience.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wassim-datascience/test-python-datascience/blob/main/Test_python_datascience.ipynb)
 
 ---
 
